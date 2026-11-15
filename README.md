@@ -68,7 +68,7 @@ an hour.
 
 # Data
 
-The dataset paired along this project is publicly available in Zenodo: 10.5281/zenodo.24250916
+The dataset paired along this project is publicly available in Zenodo: [10.5281/zenodo.24250916](https://zenodo.org/records/24250916)
 
 
 # Cite
